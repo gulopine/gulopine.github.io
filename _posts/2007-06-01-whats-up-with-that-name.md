@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's up with that name?
+title: "What's up with that name?"
 tags: myself
 ---
 
