@@ -1,0 +1,28 @@
+---
+---
+
+<!doctype html>
+<html>
+	<head>
+	<title>Ginger Hawthorne</title>
+        <link rel="shortcut icon" href="/assets/favicon.png">
+        <link rel="stylesheet" type="text/css" href="/assets/style.css">
+		<style>
+			#accounts li {
+				float: left;
+				width: 25%;
+				padding: .5rem 0;
+				text-align: center;
+				list-style: none;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Ginger Hawthorne</h1>
+		<ul id="accounts">
+		{% for account in site.data.accounts %}
+			<li><a rel="me" href="{{ social.url }}">{{ account.name }}</a></li>
+		{% endfor %}
+		</ul>
+	</body>
+</html>
