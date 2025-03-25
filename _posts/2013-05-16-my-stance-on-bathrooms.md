@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My stance on bathrooms"
+title: My stance on bathrooms
 tags: gender
 ---
 
