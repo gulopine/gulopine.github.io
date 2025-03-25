@@ -10,8 +10,6 @@ title: Ginger Hawthorne
 		list-style: none;
 	}
 </style>
-{{ site.time }}
-{{ site.data }}
 <ul id="accounts">
 {% for account in site.data.accounts %}
 	<li><a rel="me" href="{{ account.url }}">{{ account.name }}</a></li>
