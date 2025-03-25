@@ -103,6 +103,7 @@ h2 + p.published {
 }
 
 .copyright {
+    clear: both;
     margin: 1.25em 0;
 }
 
