@@ -6,7 +6,7 @@ tags: gender
 
 Well, I guess it's time to take an unpopular opinion. I don't usually write much in Facebook, but there's been a lot of anger lately, here and elsewhere, about whether transgender people should be able to use the bathroom corresponding to the gender they identify with. There's anger on both sides, and it's really frustrating. So, rather than pick a side, I'm going to take a stance so unpopular, I haven't yet seen anybody talking about it.
 
-*Get rid of gendered bathrooms.*
+**Get rid of gendered bathrooms.**
 
 That's right, down with the men's room and the ladies' room. Tear out the urinals, turn them into stalls, call them all bathrooms or restrooms (that's a whole other debate) and be done with it. Instead of trying to define gender, why not just do away with it altogether. Make gendered bathrooms this generation's racist bathrooms.
 
