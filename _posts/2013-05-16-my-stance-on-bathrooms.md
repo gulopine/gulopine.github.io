@@ -1,5 +1,5 @@
 ---
-My stance on bathrooms
+title: My stance on bathrooms
 ---
 
 Well, I guess it's time to take an unpopular opinion. I don't usually write much in Facebook, but there's been a lot of anger lately, here and elsewhere, about whether transgender people should be able to use the bathroom corresponding to the gender they identify with. There's anger on both sides, and it's really frustrating. So, rather than pick a side, I'm going to take a stance so unpopular, I haven't yet seen anybody talking about it.
