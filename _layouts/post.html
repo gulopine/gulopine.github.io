@@ -6,6 +6,12 @@ layout: default
 <div class="info">
   by <a href="/about/">Gigner Hawthorne</a>
   on {{ page.date|date:"%-d %b %Y" }}
+  {% unless page.tags == empty %}
+    about
+    {% for tag in page.tags %}
+      {{ tag }}{% if tag.last %} and {% else %},{% endif %}
+    {% endfor %}
+  {% endunless %}
 </div>
 
 {{ content }}
