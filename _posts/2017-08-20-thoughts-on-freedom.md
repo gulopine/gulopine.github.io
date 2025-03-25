@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Thoughts on Freedom
+title: Thoughts on freedom
 tags: politics
 
 ---

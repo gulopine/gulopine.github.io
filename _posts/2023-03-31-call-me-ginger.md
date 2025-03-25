@@ -1,3 +1,9 @@
+---
+layout: post
+title: Call me Ginger
+tags: gender myself
+---
+
 Today’s the International Trans Day of Visibility, and I’d like to give y’all some visibility into the current state of my life.
 
 tl;dr: please call me Ginger.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming Out As Bigender
+title: Coming out as bigender
 tags: gender myself
 ---
 
