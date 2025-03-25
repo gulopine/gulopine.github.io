@@ -4,8 +4,8 @@ layout: default
 <link rel="prev" href="{{ page.previous }}">
 <link rel="next" href="{{ page.next }}">
 <div class="info">
-  by [Gigner Hawthorne](/about/)
-  on [{{ page.date }}]({{ page.dir }})
+  by <a href="/about/">Gigner Hawthorne</a>
+  on {{ page.date|date:"%-d %b %Y" }}
 </div>
 
 {{ content }}
