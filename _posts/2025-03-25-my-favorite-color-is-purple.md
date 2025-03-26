@@ -1,3 +1,9 @@
+---
+layout: post
+title: My favorite color is purple
+tags: myself
+---
+
 My favorite color is purple. _My_ favorite color is purple. That may sound simple, but for me, that revelation took 35 years of suffering and self discovery.
 
 I grew up the youngest of four, and one of the things I learned very quickly was that each sibling had a color. My eldest sister had chosen red as her favorite, my brother chose blue, and my other sister chose yellow. A clear pattern emerged, and when you think about common groupings of four colors, the only one missing was green. So instead of choosing my own color, my parents assigned me green.
