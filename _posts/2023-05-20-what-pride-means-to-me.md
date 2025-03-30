@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The importance of Pride
+title: What Pride means to me
 ---
 
 I’m not the first to say this, but I also think it’s important to say it in my own words, for my own sake.
