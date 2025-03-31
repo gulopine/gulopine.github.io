@@ -8,7 +8,7 @@ layout: default
   on {{ page.date|date:"%-d %b %Y" }}
   {% unless page.tags == empty %}
     about
-    {% for tag in page.tags %}{% if forloop.length > 1 %}{% if forloop.last %} and {% elsunless forloop.first %}, {% endif %}{% endif %}
+    {% for tag in page.tags %}{% if forloop.length > 1 %}{% if forloop.last %} and {% elsif forloop.first %}{% else %}, {% endif %}{% endif %}
       {{ tag }}
     {% endfor %}
   {% endunless %}
