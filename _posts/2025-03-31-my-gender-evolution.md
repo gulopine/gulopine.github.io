@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My gender evolution
-tags: myself
+tags: gender myself
 ---
 
 A couple years ago, I wrote about coming out as bigender. Since then, I’ve learned more about myself, faced more of my fears, rejected more of the harmful stereotypes that kept me from accepting myself as a transgender woman. This my story.
