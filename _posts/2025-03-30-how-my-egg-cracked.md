@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How my egg cracked
+tags: gender myself
 ---
 
 Spend some time around trans folks, and you’re likely to hear us talking about our eggs and how they cracked. It’s a simple metaphor, where our egg is our life before discovering we’re trans, and the crack is the moment that manifested that discovery. We all have our story, and this one’s mine.
