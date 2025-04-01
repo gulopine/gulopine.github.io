@@ -5,10 +5,9 @@ title: Ginger Hawthorne
 
 {% unless site.tags == empty %}
   <div class="info">
-  writes about
+  where I write about
     {% for tag in site.tags %}{% if forloop.length > 1 %}{% if forloop.last %} and {% elsif forloop.first %}{% else %}, {% endif %}{% endif %}
-      {{ tag|first }}
-    {% endfor %}
+      {{ tag|first }}{% endfor %}
   </div>
 {% endunless %} 
 

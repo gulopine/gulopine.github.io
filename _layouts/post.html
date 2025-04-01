@@ -9,8 +9,7 @@ layout: default
   {% unless page.tags == empty %}
     about
     {% for tag in page.tags %}{% if forloop.length > 1 %}{% if forloop.last %} and {% elsif forloop.first %}{% else %}, {% endif %}{% endif %}
-      {{ tag }}
-    {% endfor %}
+      {{ tag }}{% endfor %}
   {% endunless %}
 </div>
 
