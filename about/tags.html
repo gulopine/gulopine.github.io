@@ -5,6 +5,6 @@ layout: default
 
 <ul id="tags">
 {% for tag in site.tags %}
-	<li>{{ tav }}</li>
+	<li>{{ tag.name }}: {{ tag }}</li>
 {% endfor %}
 </ul>
