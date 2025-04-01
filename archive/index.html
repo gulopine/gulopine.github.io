@@ -4,7 +4,7 @@ layout: default
 
 {% assign title_year = "" %}
 {% for post in site.posts %}
-  {% assign post_year = post.date|date;"%Y" %}
+  {% assign post_year = post.date|date:"%Y" %}
   {% if post_year != title_year %}
     {% assign title_year = post_year %}
     <h1 id="{{ title_year }}">Posts from {{ title_year }}</h1>
