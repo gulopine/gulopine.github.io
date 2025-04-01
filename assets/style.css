@@ -46,6 +46,7 @@ h1 .caps, h2 .caps, h3 .caps {
 }
 
 h1 {
+    margin-top: .5em
     font-family: Times, serif;
     text-align: center;
     font-size: 2.25em;
