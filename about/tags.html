@@ -5,6 +5,6 @@ layout: default
 
 <ul id="tags">
 {% for tag in site.tags %}
-	<li>{{ tag.name }}: {{ tag }}</li>
+	<li>{{ tag|first }}</li>
 {% endfor %}
 </ul>
