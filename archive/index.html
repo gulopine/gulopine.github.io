@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% assign title_year = "" %}
+{% for post in site.posts %}
+  {% assign post_year = post[0].date|date;"%Y" %}
+  {% if post_year != title_year %}
+    {% assign title_year = post_year %}
+    <h1 id="{{ title_year }}">Posts from {{ title_year }}</h1>
+  {% endif %} 
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<p class="published">{{ post.date|date:"%-d %b %Y" }}</p>
+{% endfor %}
