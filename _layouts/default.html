@@ -4,12 +4,16 @@
 <!doctype html>
 <html>
     <head>
+      {% if page.title %}
         <title>{{ page.title }}</title>
+      {% endif %}
         <link rel="shortcut icon" href="/assets/favicon.png">
         <link rel="stylesheet" type="text/css" href="/assets/style.css">
     </head>
     <body>
+      {% if page.title %}
       <h1>{{ page.title }}</h1>
+      {% endif %}
       {{ content }}
     </body>
   <div class="copyright info vcard">
