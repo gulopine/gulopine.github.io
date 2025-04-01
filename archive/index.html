@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style>
+  h1 {
+    padding-top: .5em;
+  }
+</style>
+
 {% assign title_year = "" %}
 {% for post in site.posts %}
   {% assign post_year = post.date|date:"%Y" %}
