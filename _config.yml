@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - day
+    - tags
+  layouts:
+    year: archive-year
+    month: archive-month
+    day: archive-day
+    tag: archive-tag
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/:name/'
+ 
