@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<style>
-  h1 {
-    padding-top: .5em;
-  }
-</style>
-
 {% for tag in site.tags %}
 	<h1 id="{{ tag[0] }}">Posts about {{ tag|first }}</h1>
 	{% for post in tag[1] %}
