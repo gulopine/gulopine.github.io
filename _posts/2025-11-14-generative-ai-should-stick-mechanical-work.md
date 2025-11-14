@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generative AI Should Stick to Mechanical Work
+title: Generative AI should stick to mechanical work
 tags: AI
 ---
 I saw this post in Bluesky, and I’ve been thinking a lot about it.
