@@ -17,13 +17,13 @@ layout: default
 	}
 </style>
 <div id="accounts">
-{% assign category = "" %}
+{% capture category %}{% endcapture %}
 {% for account in site.data.accounts %}
 	{% if account.category != category %}
 		{% if category != "" %}
 			</ul>
 		{% endif %}
-		{% assign category = account.category %}
+		{% capture category %}{{ account.category }}{% endcapture %}
 		<h2>{{ category }}</h2>
 		<ul>
 	{% endif %}
