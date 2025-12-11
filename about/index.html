@@ -4,6 +4,10 @@ layout: default
 ---
 
 <style>
+	#accounts h2 {
+		clear: both;
+		text-align: center;
+	}
 	#accounts li {
 		float: left;
 		width: 25%;
@@ -12,8 +16,20 @@ layout: default
 		list-style: none;
 	}
 </style>
-<ul id="accounts">
+<div id="accounts">
+{% assign category = "" %}
 {% for account in site.data.accounts %}
+	{% if account.category != category %}
+		{% if category != "" %}
+			</ul>
+		{% endif %}
+		{% assign category = account.category %}
+		<h2>{{ category }}</h2>
+		<ul>
+	{% endif %}
 	<li><a rel="me" href="{{ account.url }}">{{ account.name }}</a></li>
 {% endfor %}
-</ul>
+{% if category != "" %}
+	</ul>
+{% endif %}
+</div>
