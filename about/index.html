@@ -4,13 +4,14 @@ layout: default
 ---
 
 <style>
+	#accounts section {
+		float: left;
+		width: 25%;
+	}
 	#accounts h2, ul {
-		clear: both;
 		text-align: center;
 	}
 	#accounts li {
-		float: left;
-		width: 25%;
 		padding: .5rem 0;
 		text-align: center;
 		list-style: none;
@@ -19,11 +20,13 @@ layout: default
 <div id="accounts">
 {% assign categories = site.data.accounts | group_by: "category" %}
 {% for category in categories %}
+<section>
 	<h2>{{ category.name }}</h2>
 	<ul>
 	{% for account in category.items %}
 		<li><a rel="me" href="{{ account.url }}">{{ account.name }}</a></li>
 	{% endfor %}
 	</ul>
+</section>
 {% endfor %}
 </div>
