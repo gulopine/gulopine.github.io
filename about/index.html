@@ -17,19 +17,12 @@ layout: default
 	}
 </style>
 <div id="accounts">
-{% capture category %}{% endcapture %}
-{% for account in site.data.accounts %}
-	{% if account.category != category %}
-		{% if category != "" %}
-			</ul>
-		{% endif %}
-		{% capture category %}{{ account.category }}{% endcapture %}
-		<h2>{{ category }}</h2>
-		<ul>
-	{% endif %}
-	<li><a rel="me" href="{{ account.url }}">{{ account.name }}</a></li>
+{% assign categories = site.data.accounts | group_by: "category" %}
+{% for category in categories %}
+	<h2>{{ category }}</h2>
+	<ul>
+	{% for account in category.items %}
+		<li><a rel="me" href="{{ account.url }}">{{ account.name }}</a></li>
+	{% endfor %}
 {% endfor %}
-{% if category != "" %}
-	</ul>
-{% endif %}
 </div>
