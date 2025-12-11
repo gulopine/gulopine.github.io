@@ -4,7 +4,7 @@ layout: default
 ---
 
 <style>
-	#accounts h2 {
+	#accounts h2, ul {
 		clear: both;
 		text-align: center;
 	}
@@ -19,10 +19,11 @@ layout: default
 <div id="accounts">
 {% assign categories = site.data.accounts | group_by: "category" %}
 {% for category in categories %}
-	<h2>{{ category }}</h2>
+	<h2>{{ category.name }}</h2>
 	<ul>
 	{% for account in category.items %}
 		<li><a rel="me" href="{{ account.url }}">{{ account.name }}</a></li>
 	{% endfor %}
+	</ul>
 {% endfor %}
 </div>
