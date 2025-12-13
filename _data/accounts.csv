@@ -1,11 +1,7 @@
 category,name,url
-Art,Deviant Art,https://deviantart.com/gulopine
-Art,Flickr,https://flickr.com/gulopine
-Art,imgur,https://imgur.com/user/gulopine
-Art,Instagram,https://instagram.com/gulopine
-Art,Pixelfed,https://pixelfed.social/i/web/profile/206201851186647040
 Art,Ravelry,https://ravelry.com/people/gulopine
 Art,RedBubble,https://redbubble.com/people/gulopine
+Art,Teepublic,https://www.teepublic.com/user/gulopine
 Books,Anobii,https://anobii.com/en/gulopine/profile/
 Books,Goodreads,https://goodreads.com/gulopine
 Books,I.N.D.U.C.K.S.,https://inducks.org/browsecollec.php?user=Gulopine
@@ -22,8 +18,6 @@ Entertainment,IMDb (user),https://imdb.com/user/ur1380467/
 Entertainment,IMDb (credits),https://imdb.com/name/nm5495261/
 Entertainment,Letterboxd,https://letterboxd.com/gulopine/
 Entertainment,Trakt,https://trakt.tv/users/gulopine
-Entertainment,Vimeo,https://vimeo.com/gulopine
-Entertainment,YouTube,https://youtube.com/@gulopine
 Fitness,Fitbit,https://fitbit.com/user/22XCL9
 Fitness,Strava,https://strava.com/athletes/gulopine
 Gaming,GiantBomb,https://giantbomb.com/profile/gulopine/
@@ -35,7 +29,12 @@ Gaming,VGMdb,https://vgmdb.net/forums/member.php?u=340
 Hardware,Hackaday,https://hackaday.io/gulopine
 Hardware,OSH Park,https://oshpark.com/profiles/Gulopine
 Hardware,Tindie,https://tindie.com/stores/gulopine/
-Music,Bandcamp,https://bandcamp.com/gulopine
+Images,Deviant Art,https://deviantart.com/gulopine
+Images,Flickr,https://flickr.com/gulopine
+Images,imgur,https://imgur.com/user/gulopine
+Images,Instagram,https://instagram.com/gulopine
+Images,Pinterest,https://pinterest.com/gulopine
+Images,Pixelfed,https://pixelfed.social/i/web/profile/206201851186647040
 Lego,Bricklink,https://bricklink.com/feedback.asp?u=gulopine
 Lego,Bricksafe,https://bricksafe.com/pages/gulopine
 Lego,Rebrickable,https://rebrickable.com/users/gulopine
@@ -45,13 +44,16 @@ Maps,Wikiloc,https://wikiloc.com/wikiloc/user.do?id=6409479
 Money,Cash App,https://cash.app/$gulopine
 Money,PayPal,https://paypal.me/gulopine
 Money,Venmo,https://venmo.com/gulopine
+Music,Bandcamp,https://bandcamp.com/gulopine
 Music,last.fm,https://last.fm/user/gulopine
 Music,Soundcloud,https://soundcloud.com/gulopine
 Music,Spotify,https://open.spotify.com/user/gulopine
 Reference,ISNI,https://isni.org/isni/0000000117928989
 Reference,Newspapers,https://newspapers.com/profile/gulopine
 Reference,ORCiD,https://orcid.org/0000-0002-9888-2114
+Reference,Quora,https://quora.com/profile/Marty-Alchin
 Reference,rcdb,https://rcdb.com/11952.htm
+Reference,Stack Exchange,https://stackexchange.com/users/43674/
 Reference,Wikipedia,https://en.wikipedia.org/wiki/user:gulopine
 Shopping,Bookshop (wishlist),https://bookshop.org/wishlists/10f468c9a069345d152a634051b2af55d6c712c3
 Shopping,eBay,https://ebay.com/usr/gulopine
@@ -60,38 +62,35 @@ Shopping,Etsy,https://etsy.com/people/gulopine
 Shopping,Gumroad,https://gulopine.gumroad.com/
 Shopping,Kickstarter,https://kickstarter.com/profile/gulopine
 Shopping,Patreon,https://patreon.com/gulopine
+Local,Meetup,https://meetup.com/members/968666
+Local,NextDoor,https://nextdoor.com/profile/14046880
+Local,Yelp,https://yelp.com/user_details?userid=p0lhgj_Tf7gIp1oK-q9FAQ
+Messaging,Signal,https://signal.me/#eu/z0hHueygEpGdMjXZnwIjXKbBChh64me0xrq0MRThZFYayMshyo1DL5g8nx5UpHt3
+Messaging,Telegram,https://t.me/gulopine
 Social,Bluesky,https://bsky.app/profile/gulopine.com
 Social,Discord,https://discord.com/users/202640615404470281
 Social,Disqus,https://disqus.com/by/gulopine
 Social,Facebook,https://facebook.com/gulopine
 Social,Mastodon.social,https://mastodon.social/@gulopine
-Social,Meetup,https://meetup.com/members/968666
-Social,NextDoor,https://nextdoor.com/profile/14046880
-Social,Periscope,https://periscope.tv/gulopine
-Social,Pinterest,https://pinterest.com/gulopine
-Social,Quora,https://quora.com/profile/Marty-Alchin
 Social,Reddit,https://reddit.com/u/gulopine
-Social,Signal,https://signal.me/#eu/z0hHueygEpGdMjXZnwIjXKbBChh64me0xrq0MRThZFYayMshyo1DL5g8nx5UpHt3
-Social,Stack Exchange,https://stackexchange.com/users/43674/
-Social,Telegram,https://t.me/gulopine
 Social,Threads,https://threads.net/@gulopine
-Social,TikTok,https://tiktok.com/@gulopine
 Social,Tumblr,https://gulopine.tumblr.com/
 Social,World Key,https://worldkey.io/@gulopine
-Social,Yelp,https://yelp.com/user_details?userid=p0lhgj_Tf7gIp1oK-q9FAQ
 Software,Bitbucket,https://bitbucket.com/gulopine
 Software,CodePen,https://codepen.io/gulopine
 Software,Django Snippets,https://djangosnippets.org/users/gulopine
-Software,GitBook,https://gulopine.gitbook.io/
 Software,GitHub,https://github.com/gulopine
 Software,GitLab,https://gitlab.com/gulopine
-Software,Gitter,https://gitter.im/gulopine/home
 Software,Keybase,https://keybase.io/gulopine
 Software,NPM,https://npmjs.com/~gulopine
 Software,PyPI,https://pypi.org/user/gulopine
 Software,Read the Docs,https://readthedocs.org/profiles/gulopine
 Travel,OpenFlights,https://openflights.org/user/Gulopine
 Travel,Tripit,https://tripit.com/people/gulopine
+Video,TikTok,https://tiktok.com/@gulopine
+Video,Vimeo,https://vimeo.com/gulopine
+Video,YouTube,https://youtube.com/@gulopine
 Writing,Amazon (author page),https://amazon.com/stores/author/B002PMN0NK
 Writing,Blog,https://gulopine.com/
+Writing,GitBook,https://gulopine.gitbook.io/
 Writing,Medium,https://medium.com/@gulopine
