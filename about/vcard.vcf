@@ -21,4 +21,5 @@ URL:https://gulopine.com/
 {% for account in site.data.accounts | sort: "name" %}
 URL;{{ account.name }}:{{ account.url }}
 {% endfor %}
+REV:{{ "now" | date: "%Y%m%dT%H%M%SZ" }}
 END:VCARD
