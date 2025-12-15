@@ -9,4 +9,8 @@ EMAIL;TYPE=home:gulopine@gmail.com
 TEL;TYPE=cell:(517) 281-5533
 LOGO;TYPE=PNG:https://gulopine.com/assets/g.png
 PHOTO;TYPE=PNG:https://gulopine.com/assets/g.png
+URL:https://gulopine.com/
+{% for account in site.data.accounts | sort: "category" %}
+URL;{{ account.name }}:{{ account.url }}
+{% endfor %}
 END:VCARD
