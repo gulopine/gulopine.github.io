@@ -7,7 +7,9 @@ KIND:individual
 SOURCE:http://gulopine.com/about/vcard.vcf
 FN:Ginger Hawthorne
 N:Hawthorne;Ginger
-GENDER:F
+GENDER:F;Woman
+GRAMGENDER:feminine
+PRONOUNS;LANGUAGE=en:she/her/hers
 EMAIL;TYPE=home:gulopine@gmail.com
 TEL;TYPE=cell:(517) 281-5533
 LOGO;TYPE=PNG:https://gulopine.com/assets/g.png
