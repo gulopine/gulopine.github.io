@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.0
+KIND:individual
+SOURCE:http://gulopine.com/about/vcard.vcf
+FN:Ginger Hawthorne
+N:Hawthorne;Ginger
+GENDER:F
+EMAIL;TYPE=home:gulopine@gmail.com
+TEL;TYPE=cell:(517) 281-5533
+LOGO;TYPE=PNG:https://gulopine.com/assets/g.png
+PHOTO;TYPE=PNG:https://gulopine.com/assets/g.png
+END:VCARD
