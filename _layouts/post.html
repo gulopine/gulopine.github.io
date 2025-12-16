@@ -7,6 +7,7 @@ layout: default
 <div class="info">
   {{ page.series }}: {{ page.part }}
 </div>
+{% endif %}
 <div class="info">
   on {{ page.date|date:"%-d %b %Y" }}
   {% unless page.tags == empty %}
