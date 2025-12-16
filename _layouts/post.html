@@ -3,6 +3,10 @@ layout: default
 ---
 <link rel="prev" href="{{ page.previous.url }}">
 <link rel="next" href="{{ page.next.url }}">
+{% if page.series %}
+<div class="info">
+  {{ page.series }}: {{ page.part }}
+</div>
 <div class="info">
   on {{ page.date|date:"%-d %b %Y" }}
   {% unless page.tags == empty %}
