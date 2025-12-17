@@ -147,6 +147,11 @@ blockquote em {
     letter-spacing: 0;
 }
 
+blockquote img {
+    display: block;
+    margin: 1.25em auto;
+}
+
 div.image {
     text-align: center;
     margin: 1.25em 0;
