@@ -42,7 +42,7 @@ And for once I actually listened to my own words.
 
 I'd been stuck with society's rules. I'd been living for other people's approval. I'd been denying myself to avoid bullying. I was waiting for permission to be myself. Thankfully, I saw the parallel then, just as clearly as you're reading it now, and I realized I had a chance to truly put my money where my mouth was. I remembered Billy Porter in that amazing gown, and the joy that I felt at the idea of one day being able to do that myself.
 
-So I decided to it myself. But it wasn't easy.
+So I decided to do it myself. But it wasn't easy.
 
 I took me a few days to research, because I knew I wouldn't feel comfortable shopping in the women's section of any stores. Or worse, shopping in a women's clothing store! I had to do this in private, because I was absolutely convinced that what I was doing was wrong. That everyone would hate me. I knew that I needed to do it anyway, but _no one could know_.
 
