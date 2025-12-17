@@ -152,6 +152,11 @@ blockquote img {
     margin: 1.25em auto;
 }
 
+blockquote.warning {
+    background: #ffaaaa;
+    border: 1px solid #884444;
+}
+
 div.image {
     text-align: center;
     margin: 1.25em 0;
